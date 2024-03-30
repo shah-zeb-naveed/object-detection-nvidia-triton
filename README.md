@@ -1,1 +1,1 @@
-Code snippet from Microsoft official guide on object detection with Nvidia Triton Server
+Credits: Microsoft official guide on object detection with Nvidia Triton Server
